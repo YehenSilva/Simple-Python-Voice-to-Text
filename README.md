@@ -25,7 +25,7 @@ pip install speechrecognition pyttsx3 pyaudio
 ## How to Run
 
 ```
-python main.py
+python speechtotext.py
 ```
 
 Speak when the program is ready. Your words will appear in the terminal and will also be written to a text file.
